@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿## Welcome 
 
 #RAILWAY RESERVATION SYSTEM should be able to manage all the reservation related functions.
@@ -48,3 +49,6 @@
 #4. Open Your browser put inside "http://localhost/railway reservation system in php/"
 
 #Download project  https://www.projectworlds.in/php-projects/railway-reservation-system-in-php/
+=======
+# DBMS-mini-project
+>>>>>>> a2ce1c36f3cc2072b135895112e0ae8890e2c94c
